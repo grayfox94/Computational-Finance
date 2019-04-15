@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Crank-Nicholson.cpp
+c:\users\giuseppe\source\repos\crank-nicholson\crank-nicholson\crank-nicholson.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Crank-Nicholson.vcxproj -> C:\Users\Giuseppe\source\repos\Crank-Nicholson\Debug\Crank-Nicholson.exe
